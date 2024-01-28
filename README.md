@@ -3,11 +3,6 @@
 - Front-End Engineer React
 - 📫 How to reach me: [Telegram](https://t.me/aabdurauf004), [Instagram](https://www.instagram.com/abdurauf_a_/)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrina-babajanova&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-babajanova&layout=compact&theme=blueberry" alt="Top Languages" height="180">
-</div>
-
 # Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
