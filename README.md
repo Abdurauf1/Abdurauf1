@@ -41,9 +41,10 @@
 
 <p>
     <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurauf1&show_icons=true&locale=en&layout=compact" alt="abdurauf1" />
-    <br>
     <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=abdurauf1&show_icons=true&locale=en" alt="abdurauf1" />
 </p>
+
+<br>
 
 <img align="left" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurauf1&" alt="abdurauf1" />
 
