@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdurauf</h1>
 <h3 align="center">A passionate and skillfull frontend engineer</h3>
-<img align="center" alt="coding" width="100%" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 
 - 👨‍💻 All of my projects are available at [https://portfolio-abdurauf1.netlify.app/](https://portfolio-abdurauf1.netlify.app/)
 
@@ -21,4 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurauf1&show_icons=true&locale=en" alt="abdurauf1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurauf1&" alt="abdurauf1" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurauf1&" alt="abdurauf1" />
+<img align="center" alt="coding" width="100%" src="./assets/github-snake.gif">
