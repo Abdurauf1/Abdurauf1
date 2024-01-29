@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurauf1&label=Profile%20views&color=0e75b6&style=flat" alt="abdurauf1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurauf1" alt="abdurauf1" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio-abdurauf1.netlify.app/](https://portfolio-abdurauf1.netlify.app/)
 
 - 📫 How to reach me **[Telegram](https://t.me/aabdurauf004)**
