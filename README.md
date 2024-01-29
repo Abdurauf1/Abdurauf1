@@ -10,7 +10,7 @@
 <a href="https://twitter.com/aabdurauf004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabdurauf004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdurauf-ashurov-656415213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurauf-ashurov-656415213/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdurauf_a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurauf_a_/" height="30" width="40" /></a>
-<a href="ttps://www.youtube.com/c/@devcodelab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devcodelab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@devcodelab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devcodelab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
