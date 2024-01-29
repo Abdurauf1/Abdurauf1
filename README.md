@@ -44,8 +44,8 @@
 </p>
 
 <p>
-    <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=abdurauf1&show_icons=true&locale=en" alt="abdurauf1" />
-    <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurauf1&" alt="abdurauf1" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=abdurauf1&show_icons=true&locale=en" alt="abdurauf1" />
+    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurauf1&" alt="abdurauf1" />
 </p>
 
 <img align="center" alt="coding" width="100%" src="./assets/github-snake.svg">
