@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a style="text-decoration: none;" href="https://twitter.com/aabdurauf004" target="blank">
+    <a style="text-decoration: none" href="https://twitter.com/aabdurauf004" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabdurauf004" height="30" width="40" />
     </a>
     <a style="text-decoration: none;" href="https://linkedin.com/in/abdurauf-ashurov-656415213/" target="blank">
