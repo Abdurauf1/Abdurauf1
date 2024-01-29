@@ -10,6 +10,7 @@
     <a style="text-decoration:none" href="https://twitter.com/aabdurauf004" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aabdurauf004" height="30" width="40" />
     </a>
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurauf-ashurov-656415213/" height="30" width="40" />](https://linkedin.com/in/abdurauf-ashurov-656415213/)
     <a style="text-decoration:none" href="https://linkedin.com/in/abdurauf-ashurov-656415213/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurauf-ashurov-656415213/" height="30" width="40" />
     </a>
