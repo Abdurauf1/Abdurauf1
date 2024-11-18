@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdurauf</h1>
 <h3 align="center">A passionate and skilled frontend engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-abdurauf1.netlify.app/](https://portfolio-abdurauf1.netlify.app/)
+- 👨‍💻 Visit my website [https://portfolio-abdurauf1.netlify.app/](https://portfolio-abdurauf1.netlify.app/)
 
 - 📫 How to reach me [Telegram](https://t.me/aabdurauf004), [Instagram](https://www.instagram.com/abdurauf_a_/)
 
