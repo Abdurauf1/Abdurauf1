@@ -5,7 +5,7 @@
 
 - 👨‍💻 Visit my website [https://portfolio-abdurauf1.netlify.app/](https://portfolio-abdurauf1.netlify.app/)
 
-- 📫 How to reach me [Telegram](https://t.me/aabdurauf004), [Instagram](https://www.instagram.com/abdurauf_a_/)
+- 📫 How to reach me [Telegram](https://t.me/xtdfc), [Instagram](https://www.instagram.com/abdurauf_a_/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
